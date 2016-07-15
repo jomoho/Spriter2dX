@@ -16,7 +16,7 @@ In the root of your Cocos2d-X project:
 mkdir external
 cd external
 git submodule add git@github.com:jeremyjh/Spriter2dX.git
-git submodule update --recursive
+git submodule update --recursive --init
 ```
 
 
